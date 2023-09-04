@@ -1,0 +1,4 @@
+/backend/node_modules
+/frontend/student/node_modules
+/backend/.env
+/frontend/student/.env
